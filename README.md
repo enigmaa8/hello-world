@@ -1,5 +1,5 @@
 # hello-world
-just a repository
  Hi everyone, this is mee...Enigma...
  i'm new on github.
- hope to collaborate wid u all & learn lots :)
+ hope to collaborate wid u all & learn lots :) 
+ Thanks.
